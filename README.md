@@ -1,4 +1,4 @@
-# Stock Market Forecasting with Conformal Prediction and Stock Agent Analysis
+# Stock Market Forecasting with Conformal Prediction and Stock Analysis with AI Agent Recommendations
 
 Go to the [article](https://medium.com/@c.giancaterino/stock-market-forecasting-with-nixtla-conformal-prediction-49874285634e)
 
